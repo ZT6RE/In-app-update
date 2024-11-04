@@ -1,16 +1,13 @@
 {
   "Visibility": "VISIBLE",
-  "UpdateImage": "https://github.com/ZT6RE/Direct-Download-1.0-Project/releases/download/Update/G1.Mods.Update.Icon.Halloween.2024.png",
+  "UpdateImage": "later",
   "ButtonColor": "FF9800",
-  "Title": "Update V1.3.1 [Halloween Theme]",
-  "Description": "- Update For Halloween Months
-- Add Granny 1.0 Remake Mod
-- Add Granny 1.0 Remake Upgrade Mod
-- Fix bug in Granny 1.0 Page 3",
+  "Title": "Update V1.1",
+  "Description": "later",
   "MainTextButton": "Update",
   "Cancelable": "false",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "https://github.com/ZT6RE/Direct-Download-1.0-Project/releases/download/Update/Granny.Mods.1.0.-.1.2.Update.V1.3.1.apk",
-  "Size": "Size 17.42 MB",
+  "DownloadLink": "later",
+  "Size": "Size 10.10 MB",
   "Version": "1.0"
 }
