@@ -5,7 +5,7 @@
   "Title": "Update V1.1",
   "Description": "later",
   "MainTextButton": "Update",
-  "Cancelable": "false",
+  "Cancelable": "true",
   "CancelButtonText": "Cancel",
   "DownloadLink": "later",
   "Size": "Size 10.10 MB",
