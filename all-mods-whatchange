@@ -1,10 +1,21 @@
 {
- "minecraft10_whatchange": ""
- "minecraft10_changeinfo": ""
- "philippines10_whatchange": ""
- "philippines10_changeimfo": ""
- "army10_whatchange": ""
- "army10_changeinfo": ""
- "orange_whatchange": ""
- "orange_changeinfo": ""
+ "minecraft10_whatchange": "What's Change?"
+ "minecraft10_changeinfo": "- House Texture
+- Granny Texture
+
+Note*
+- Lag"
+ "philippines10_whatchange": "What's Change?"
+ "philippines10_changeimfo": "- House Texture
+- Granny Texture"
+ "army10_whatchange": "What's Change?"
+ "army10_changeinfo": "- Some House Texture
+- Granny Texture"
+ "orange_whatchange": "What's Change?"
+ "orange_changeinfo": "- House Texture
+- Ui Texture
+- Granny Texture
+
+Note*
+- Lag"
 }
